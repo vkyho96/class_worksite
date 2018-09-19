@@ -7,6 +7,11 @@ body {
   padding: 0;
 }
 
+.colored-background {
+  background-color:#292929;
+}
+
+
 .container {
   max-width: 90%;
   margin: auto;
@@ -166,7 +171,7 @@ a:hover {
 
 
 footer {
-  min-height: 781px;
+  /* min-height: 781px; */
   background: #292929;
   color: #fff;
 }
