@@ -8,7 +8,7 @@ body {
 }
 
 .colored-background {
-  background-color:#292929;
+  background-color:#333;
 }
 
 
@@ -28,7 +28,7 @@ nav {
   min-height: 50px;
   /* border-bottom: 1px solid #C4C4C4; */
   position: fixed;
-  background: #333;
+  background: #292929;
   transition: 0.35s all ease;
   padding: 2rem;
 }
@@ -69,7 +69,7 @@ li a {
 }
 
 .colored-ul li {
-  background: #292929;
+  background: #333;
   padding: 10px;
   border-bottom: 1px solid black;
   border-top: 1px solid #3c3c3c;
@@ -154,7 +154,7 @@ a:hover {
 .colored {
   /*background-color:#264356;*/
   /* background-color: #101010; */
-  background-color: #292929;
+  background-color: #333;
   color: #fff;
   padding: 100px 60px;
 }
@@ -172,7 +172,7 @@ a:hover {
 
 footer {
   /* min-height: 781px; */
-  background: #292929;
+  background: #333;
   color: #fff;
 }
 
